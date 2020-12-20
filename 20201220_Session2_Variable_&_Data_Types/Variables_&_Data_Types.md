@@ -34,7 +34,7 @@ char var = 'A';</br>
 int variable = 5;</br>
 double pi = 3.14;</br>
 
-<h6>character</h6> data is represent with data type <b>char</b> has size of 1 byte
+<h6>Character</h6>character data is represent with data type <b>char</b> has size of 1 byte
 character can store number as well. but that number will be converted to ASCI character at time of execution, i.e. char var = 65; //will consider as <b>"A"</b> </br>
 
 <h6>Float & Double</h6>
