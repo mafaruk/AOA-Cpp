@@ -1,4 +1,4 @@
-<h2>Linker<h2/>
+<h1>Linker</h1>
 after compilation, Linker comes into picture.
 Linker combines the multiple object files into one executable binary file.
 if there's only one file then Linker does nothing.
