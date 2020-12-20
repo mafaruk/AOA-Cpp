@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Log.h" //user define header are include using "" double quotes 
+#include "Log.h" //user define header are include using "" double quotes
 void initlog(){
     Log("Hello World!");
 }
