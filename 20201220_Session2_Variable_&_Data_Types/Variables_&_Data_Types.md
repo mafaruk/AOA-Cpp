@@ -1,4 +1,4 @@
-<h6>Variable</h6> are nothing but the human readable/understandable world which can store the data (not actually)
+<h6>Variable</h6> are nothing but the human readable/understandable word/letter which can store the data (not actually)
 </br>
 data is stored into a specific memory location and variable are used to refers to that memory location.
 </br>
