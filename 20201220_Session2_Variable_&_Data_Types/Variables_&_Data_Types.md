@@ -3,7 +3,7 @@
 data is stored into a specific memory location and variable are used to refers to that memory location.
 </br>
 each Variable has a primitive data type assigned to it</br>
-data type tells the compile what type of data it is, such character, integer, decimal etc...
+data type tells the compiler what type of data it is, such character, integer, decimal etc...
 </br>
 below are the few data types </br>
 int = integer</br>
@@ -27,7 +27,7 @@ long double, short int</br>
 one can use <b>unsigned</b> to use full size of data type (ignoring 1 bit reserved for +ve & -ve sign)</br>
 
 size of unsigned int is 0 to 2^32</br>
-you can unsigned as prefix with any of other data type, except char</br>
+you can used unsigned as prefix with any of other data type, except char</br>
 
 <h2>syntax of declaring varible</h2></br>
 char var = 'A';</br>
@@ -49,8 +49,10 @@ True  = 1;
 False  = 0;
 it can be represent with <b>"1 bit"</b> however, bool has a size of <b>1 byte.</b>
 <i>Why? you asked ?</i>
-cause processor (CPU) can not represent/assign address to 1 bit of memory, it requires minimum 1 byte of to assign address to it </br>
+cause processor (CPU) can not represent/assign address to 1 bit of memory, it requires minimum 1 byte memory to assign address to it </br>
 
 
-<b><i>Note: one can use sizeof function (or one can say operator) to find the size of each data type </i></b>
+<b><i>Note: one can use sizeof function (or one can say operator) to find the size of each data type </br>
+  std::cout<<sizeof(int)<<"\n";
+  </i></b>
 </br>
