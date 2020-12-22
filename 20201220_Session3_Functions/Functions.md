@@ -3,15 +3,15 @@
 1 . Function declaration</br>
 2 . Function definition</br>
 3 . Function call</br>
-
-in c++ there multiple type of functions</br>
+</br>
+in c++ there are multiple type of functions</br>
 1. functions</br>
 2. inline function </br>
 3. lambada function</br>
 4. virtual function/ pure virtual function</br>
 5. friend function </br>
 
-<h4><b>operator are nothing but function</b></h4>
+<h4><b>operators are nothing but functions</b></h4>
 <h4>Syntax:-</h4>
 <h6>Declaration:-</h6>
 ```
