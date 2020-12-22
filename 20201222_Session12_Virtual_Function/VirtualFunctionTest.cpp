@@ -10,8 +10,7 @@ public:
   int get_y(){
     return y;
   }
-  void print(){
-    Base::print();
+  void print() override{
     std::cout << get_y()*get_x() << '\n';
   }
 };

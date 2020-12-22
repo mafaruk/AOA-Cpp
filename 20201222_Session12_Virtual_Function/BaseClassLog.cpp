@@ -9,7 +9,7 @@ class Base{
     int get_x(){
       return x;
     }
-    void print(){
+    virtual void print(){
       std::cout << get_x() << '\n';
     }
 };
